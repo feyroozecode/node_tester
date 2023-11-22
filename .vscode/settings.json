@@ -1,0 +1,5 @@
+{
+    "nuxt.isNuxtApp": false,
+    "history.webview.stateStore": "none",
+    "workbench.editor.preferHistoryBasedLanguageDetection": false
+}

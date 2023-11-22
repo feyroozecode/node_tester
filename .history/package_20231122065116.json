@@ -1,0 +1,16 @@
+{
+  "name": "node_tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "test": "node --test test/app.tes "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.9.4"
+  }
+}
